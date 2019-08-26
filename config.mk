@@ -28,7 +28,7 @@ endef
 # Projects will be started in this order
 define SUBPROJECT_REPOS
 git@github.com:/reactioncommerce/reaction-hydra.git,reaction-hydra,v2.1.0 \
-git@github.com:/reactioncommerce/reaction.git,reaction,v2.1.0 \
+git@github.com:/erikmswan/reaction.git,reaction,v2.1.0 \
 git@github.com:/erikmswan/example-storefront.git,example-storefront,v2.1.0
 endef
 
