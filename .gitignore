@@ -2,3 +2,4 @@
 !^.docs/
 config.local.mk
 */
+.DS_STORE
